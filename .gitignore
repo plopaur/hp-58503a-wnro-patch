@@ -3,10 +3,10 @@
 *.bin
 patched/
 
-
 # Python
 __pycache__/
 *.pyc
+.venv/
 
 # Generated documentation (published as release assets)
 *.pdf
