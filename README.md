@@ -8,6 +8,9 @@ too early.
 > **Status:** verified by checksum checks and CPU emulation. **Not yet tested on
 > real hardware.** Keep your original chips.
 
+**Download:** [Release v1.0](https://github.com/plopaur/hp-58503a-wnro-patch/releases/tag/v1.0)
+(the patch script and this document as PDF).
+
 ## What's in this repository
 
 | File | Description |

@@ -3,3 +3,13 @@
 *.bin
 patched/
 
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated documentation (published as release assets)
+*.pdf
+
+# macOS
+.DS_Store
