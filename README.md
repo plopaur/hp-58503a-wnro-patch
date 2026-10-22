@@ -17,6 +17,7 @@ too early.
 |---|---|
 | `wnro_patch.py` | Script that builds the patched firmware from your own copy of the original |
 | `README.md` | This document |
+| `md2pdf.py` | Script that renders this document as PDF (needs `reportlab`) |
 
 **No firmware images are included.** The 58503A firmware is copyrighted by HP,
 including the patched versions, which are mostly HP's code. You need to supply
